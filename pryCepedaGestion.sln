@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryCepedaGestion", "pryCepedaGestion\pryCepedaGestion.csproj", "{C685A1B1-C1D8-42C5-A8B0-F9346C4E885D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C685A1B1-C1D8-42C5-A8B0-F9346C4E885D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C685A1B1-C1D8-42C5-A8B0-F9346C4E885D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C685A1B1-C1D8-42C5-A8B0-F9346C4E885D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C685A1B1-C1D8-42C5-A8B0-F9346C4E885D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD47A5C-50CB-45B4-A27F-C0C9546772A6}
+	EndGlobalSection
+EndGlobal
